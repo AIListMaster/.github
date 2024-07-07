@@ -1,2 +1,2 @@
-# .github
-AI tools directory
+# AIListMaster
+AIListMaster.com is a comprehensive directory of AI tools, categorized by their functions such as design assistance, code assistance, copywriting, customer support, and more. It offers detailed listings with information on pricing models, including free, freemium, paid, and free trial options. Users can submit new AI tools to the collection, browse through various categories, and read blogs related to AI tool usage and advancements​ ([AIListMaster - List of AI Tools](https://ailistmaster.com/))​.
